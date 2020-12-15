@@ -12,7 +12,7 @@ function Contact() {
           const { email, twitter, linkedin, github } = data;
           return (
             <center>
-              <div style={{marginTop : "20px"}}>
+              <div style={{marginTop : "20px", marginRight:"30px"}}>
               <a href={email}><img src={gmail} height="50px" width="50px" alt="Gmail" /></a>
               <a href={twitter}><img src={twit} height="50px" width="50px" alt="Twitter" /></a>
               <a href={linkedin}><img src={link} height="50px" width="50px" alt="LinkedIn" /></a>

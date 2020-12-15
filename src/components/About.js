@@ -17,9 +17,9 @@ function About() {
           <h5 
           style={{ fontSize: "30px", marginBottom: "10px", fontFamily: "fantasy"}}>
         {des}</h5>
-          <p style={{ fontSize: "20px" , color: "black"}}>
+          <h5 style={{ fontSize: "20px" , color: "black"}}>
         {name}
-      </p>
+      </h5>
   </div>
 
 <br />

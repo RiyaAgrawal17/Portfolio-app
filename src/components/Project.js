@@ -13,8 +13,8 @@ const Project = () => {
       return (
     <div className="column card">
       <h3>{name}</h3>
-      <p>{description}</p><br />
-      <a href={link} className="btn">Check here</a>
+      <h6 style={{fontSize: "15px"}}>{description}</h6><br />
+      <a href={link} className="btn">Check</a>
       </div>
       )
     })
