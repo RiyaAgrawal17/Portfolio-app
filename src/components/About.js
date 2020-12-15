@@ -21,7 +21,7 @@ function About() {
   </div>
 <br />
   🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅🪅
-  <h1 style={{ marginTop: "20px"}}>Some of my tech Skills 🎇</h1>
+  <h1 style={{ marginTop: "20px"}}>Some of my tech Skills 👩‍💻</h1>
   <div className="row">
   
         {
