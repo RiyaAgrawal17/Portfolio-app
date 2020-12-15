@@ -1,12 +1,9 @@
 import React from "react";
 import "../css/App.css";
 import { Link } from "react-router-dom";
-import { BrowserRouter as Router } from 'react-router-dom';
 const Header = () => {
   return (
-    <Router>
     <div className= "navbar">
-
       <Link to="/" className="left">
         <span className="link">
          Riya Agrawal
@@ -24,7 +21,6 @@ const Header = () => {
         </Link>
     </div>
     </div>
-    </Router>
   );
 };
 export default Header;
