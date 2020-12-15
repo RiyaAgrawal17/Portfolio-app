@@ -14,8 +14,8 @@ function Profile() {
   borderRadius: "90%",
   border: "3px solid #1D4350",
   marginTop:"50px"}} alt={alt} src={image}></img>
-              <h1>{name}</h1>
-              <h2>{profile}</h2>
+              <h1 style={{color: "#1D4350", fontFamily: "Cursive"}}>{name}</h1>
+              <h2 style={{color: "#1D4350", fontFamily: "Cursive"}}>{profile}</h2>
             </center>
           );
         })}
